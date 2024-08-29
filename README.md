@@ -13,6 +13,7 @@ The case was assigned to you. Inspect the provided teamwork.pcap located in ~/De
 Your tools: TShark, VirusTotal.
 
 **Walkthrough**
+
 Navigate to the directectory 
 - cd ~/Desktop/exercise-files
 - ls
