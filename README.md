@@ -4,6 +4,7 @@
 *https://tryhackme.com/r/room/tsharkchallengesone*
 
 **Description**
+
 This room presents you with a challenge to investigate some traffic data as a part of the SOC team. Let's start working with TShark to analyse the captured traffic.
 
 An alert has been triggered: "The threat research team discovered a suspicious domain that could be a potential threat to the organisation."
